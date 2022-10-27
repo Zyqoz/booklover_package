@@ -1,0 +1,5 @@
+setup.py
+booklover.egg-info/PKG-INFO
+booklover.egg-info/SOURCES.txt
+booklover.egg-info/dependency_links.txt
+booklover.egg-info/top_level.txt
